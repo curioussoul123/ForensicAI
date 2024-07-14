@@ -1,6 +1,4 @@
-Here's a draft for your GitHub README documentation for the project "Seamless Image Forgery Detection Using Deep Learning":
 
----
 
 ## Seamless Image Forgery Detection Using Deep Learning
 
@@ -93,6 +91,11 @@ image-forgery-detection/
 ## Results
 
 The model is trained on a diverse dataset of authentic and forged images, demonstrating high accuracy in detecting various types of image manipulations, including splicing, copy-move, and retouching. The results are displayed on the web interface, providing users with detailed reports on the authenticity of uploaded images.
+
+
+
+<img width="1423" alt="copy_move" src="https://github.com/user-attachments/assets/f7cc735d-6242-49f4-8a3c-49aacb045984">
+
 
 ## Conclusion
 
