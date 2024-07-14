@@ -1,0 +1,9 @@
+Flask==3.0.3
+numpy==1.21.0
+Pillow==8.2.0
+tensorflow==2.16.1
+pandas
+matplotlib
+joblib
+pyplot
+sklearn
