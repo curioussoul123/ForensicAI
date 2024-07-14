@@ -96,8 +96,8 @@ The model is trained on a diverse dataset of authentic and forged images, demons
 
 
 <img width="1423" alt="copy_move" src="https://github.com/user-attachments/assets/f7cc735d-6242-49f4-8a3c-49aacb045984">
-![test1](https://github.com/user-attachments/assets/babc423f-4c3b-4281-98e9-63bda9f559fd)
 
+<img width="1423" alt="test1" src="https://github.com/user-attachments/assets/babc423f-4c3b-4281-98e9-63bda9f559fd">
 
 
 
